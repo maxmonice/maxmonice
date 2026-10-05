@@ -27,5 +27,8 @@ Computer Science Student focused on Java development, database management, and d
 ---
 
 ### ⚡ Find Me Online
+- 💼 **LinkedIn:** [Rafael Carlos III](https://www.linkedin.com/in/rafael-carlos-iii-057b9a402/)
 - 🧩 **LeetCode:** [maxmonice](https://leetcode.com/u/maxmonice/)
 - 🌐 **Facebook:** [polardog27](https://facebook.com/polardog27)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-iii-057b9a402/)
