@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Rafael! 👋
 
-<!--
-**maxmonice/maxmonice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student focused on Java development, database management, and data structures & algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🔭 **Core Tech:** Java and SQL.
+- 🌱 **Currently Studying:** Data Structures & Algorithms (DSA) and Advanced Database Management.
+- 🎯 **Goals:** Building strong problem-solving fundamentals and writing efficient, clean code.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Databases:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Developer Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+
+---
+
+### ⚡ Find Me Online
+- 🧩 **LeetCode:** [maxmonice](https://leetcode.com/u/maxmonice/)
+- 🌐 **Facebook:** [polardog27](https://facebook.com/polardog27)
