@@ -1,29 +1,27 @@
 # Hi there, I'm Rafael! 👋
-Computer Science Student specializing in AI Engineering, LLMs, and AI-Driven Software Architecture.
+Computer Science Student focused on Java development, database management, and leveraging AI to accelerate software engineering.
 
 ---
 
 ### 🤖 About Me
-- 🔭 **Primary Focus:** AI Engineering, LLM Integration, Autonomous Agents, and Agentic Coding Workflows.
-- 🌱 **Currently Learning & Exploring:** Fine-tuning LLMs, Retrieval-Augmented Generation (RAG), AI Agent Architectures, and System Prompt Design.
-- 🎯 **Goals:** Building scalable AI-powered applications, automating complex software workflows, and bridging classical Computer Science fundamentals with cutting-edge AI technologies.
+- 🔭 **Primary Focus:** AI-Assisted Development, Agentic Workflows, and Object-Oriented Programming (Java / C#).
+- 🌱 **Currently Learning & Exploring:** Advanced Data Structures & Algorithms (DSA), Database Systems, and prompt-driven engineering workflows to build applications faster and cleaner.
+- 🎯 **Goals:** Building strong problem-solving fundamentals, writing efficient code, and utilizing AI development tools as force multipliers to supercharge software creation.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**AI & Machine Intelligence (Primary Focus):**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**AI-Assisted Development & Workflows:**  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![AI-Driven Dev](https://img.shields.io/badge/AI_Assisted_Dev-412991?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-**Core Software Foundations & Additional Tech:**  
+**Core Languages & Databases:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
