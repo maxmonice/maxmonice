@@ -13,7 +13,6 @@ Computer Science Student focused on Java development, database management, and l
 ### 🛠️ Tech Stack & Skills
 
 **AI-Assisted Development & Workflows:**  
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI-Driven Dev](https://img.shields.io/badge/AI_Assisted_Dev-412991?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
