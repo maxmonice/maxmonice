@@ -1,0 +1,24 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="900" height="570" viewBox="0 0 900 570">
+  <rect width="900" height="570" rx="8" fill="#0d1117"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+    <text x="28" y="36" fill="#56d4dd" font-weight="bold">rafael@maxmonice</text>
+    <text x="195" y="36" fill="#64748b">------------------------------------------------</text>
+    <text x="28" y="76" fill="#8b949e">. Role:</text><text x="190" y="76" fill="#64748b">........................</text><text x="420" y="76" fill="#e6edf3">Computer Science Student</text>
+    <text x="28" y="101" fill="#8b949e">. Focus:</text><text x="190" y="101" fill="#64748b">.......................</text><text x="420" y="101" fill="#e6edf3">Backend Development</text>
+    <text x="28" y="126" fill="#8b949e">. Primary Language:</text><text x="230" y="126" fill="#64748b">............</text><text x="420" y="126" fill="#7ee787">Java</text>
+    <text x="28" y="151" fill="#8b949e">. Also Learning:</text><text x="190" y="151" fill="#64748b">................</text><text x="420" y="151" fill="#e6edf3">C#, SQL, TypeScript</text>
+    <text x="28" y="196" fill="#7ee787" font-weight="bold">- Development ------------------------------------------------</text>
+    <text x="28" y="226" fill="#8b949e">. Languages.Programming:</text><text x="285" y="226" fill="#64748b">.......</text><text x="420" y="226" fill="#e6edf3">Java, C#</text>
+    <text x="28" y="251" fill="#8b949e">. Languages.Database:</text><text x="260" y="251" fill="#64748b">..........</text><text x="420" y="251" fill="#e6edf3">SQL, MySQL, PostgreSQL</text>
+    <text x="28" y="276" fill="#8b949e">. Concepts:</text><text x="150" y="276" fill="#64748b">........................</text><text x="420" y="276" fill="#e6edf3">OOP, DSA, Algorithms</text>
+    <text x="28" y="321" fill="#7ee787" font-weight="bold">- Projects ---------------------------------------------------</text>
+    <text x="28" y="351" fill="#8b949e">. Bank Account System:</text><text x="260" y="351" fill="#64748b">..........</text><text x="420" y="351" fill="#e6edf3">Java, JDBC, MySQL</text>
+    <text x="28" y="376" fill="#8b949e">. Ball Brawl:</text><text x="150" y="376" fill="#64748b">....................</text><text x="420" y="376" fill="#e6edf3">C#, .NET</text>
+    <text x="28" y="401" fill="#8b949e">. Nexus:</text><text x="120" y="401" fill="#64748b">........................</text><text x="420" y="401" fill="#e6edf3">React, TypeScript, PostgreSQL</text>
+    <text x="28" y="446" fill="#7ee787" font-weight="bold">- Contact ----------------------------------------------------</text>
+    <text x="28" y="476" fill="#8b949e">. GitHub:</text><text x="135" y="476" fill="#64748b">.......................</text><text x="420" y="476" fill="#56d4dd">github.com/maxmonice</text>
+    <text x="28" y="501" fill="#8b949e">. LinkedIn:</text><text x="150" y="501" fill="#64748b">.....................</text><text x="420" y="501" fill="#56d4dd">Rafael Carlos III</text>
+    <text x="28" y="536" fill="#64748b">---------------------------------------------------------------</text>
+    <text x="28" y="557" fill="#e3b341" font-style="italic">always learning. always building.</text>
+  </g>
+</svg>

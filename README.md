@@ -1,35 +1,9 @@
-rafael@maxmonice 
+<p align="center">
+  <img src="profile-terminal.svg" alt="Rafael's developer profile" width="100%">
+</p>
 
-
-. Role: ........................ Computer Science Student
-
-. Focus: ....................... Backend Development
-
-. Primary Language: ............ Java
-
-. Also Learning: ................ C#, SQL, TypeScript
-
-- Development ---------------------------------------------
-
-. Languages.Programming: ....... Java, C#
-
-. Languages.Database: .......... SQL, MySQL, PostgreSQL
-
-. Concepts: ........................ OOP, DSA, Algorithms
-
-- Projects ------------------------------------------------
-
-. Bank Account System: .......... Java, JDBC, MySQL
-
-. Ball Brawl: .................... C#, .NET
-
-. Nexus: ........................ React, TypeScript, PostgreSQL
-
-- Contact -------------------------------------------------
-
-. GitHub: ....................... github.com/maxmonice
-
-. LinkedIn: ..................... Rafael Carlos III
-
-
-always learning. always building.
+<p align="center">
+  <a href="https://github.com/maxmonice">GitHub</a> ·
+  <a href="https://leetcode.com/u/maxmonice/">LeetCode</a> ·
+  <a href="https://www.linkedin.com/in/rafael-carlos-iii-057b9a402/">LinkedIn</a>
+</p>
