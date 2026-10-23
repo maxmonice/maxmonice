@@ -1,4 +1,8 @@
 # Hi there, I'm Rafael! 👋
+
+<p align="center">
+  <img src="fastfetch.svg" alt="ASCII terminal portrait banner" width="100%">
+</p>
 Computer Science Student focused on Java development, database management, and leveraging AI to accelerate software engineering.
 
 ---
